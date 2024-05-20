@@ -9,4 +9,3 @@ func main()  {
 
 	fmt.Print(name, age)
 }
-ll
